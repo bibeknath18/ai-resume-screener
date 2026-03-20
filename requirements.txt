@@ -16,5 +16,5 @@ scipy
 joblib
 reportlab
 python-docx
-Pillow==11.1.0
+Pillow==12.0.0
 httpx==0.27.0
