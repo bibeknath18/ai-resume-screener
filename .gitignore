@@ -1,0 +1,12 @@
+venv/
+.env
+__pycache__/
+outputs/
+*.pkl
+*.pyc
+*.dll
+*.pyd
+*.so
+.cache/
+*.cache
+huggingface/

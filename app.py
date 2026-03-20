@@ -3,6 +3,14 @@ Step 10 — Streamlit Demo UI
 Full interactive web app for AI Resume Screener.
 """
 
+# Auto-download spaCy model if not present
+import subprocess
+import sys
+try:
+    import spacy
+    spacy.load("en_core_web_sm")
+except OSError:
+    subprocess.run([sys.executable, "-m", "spacy", "download", "en_core_web_sm"])
 from bias_audit import run_full_audit
 from pdf_report import generate_pdf_report
 import os
