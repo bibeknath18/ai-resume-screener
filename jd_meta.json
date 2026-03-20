@@ -1,0 +1,27 @@
+{
+  "role": "Machine Learning Engineer",
+  "required_skills": [
+    "python",
+    "machine learning",
+    "deep learning",
+    "pytorch",
+    "tensorflow",
+    "scikit-learn",
+    "natural language processing",
+    "sql",
+    "git"
+  ],
+  "optional_skills": [
+    "kubernetes",
+    "docker",
+    "amazon web services",
+    "apache spark",
+    "mlops",
+    "fastapi",
+    "transformers",
+    "large language model",
+    "apache airflow"
+  ],
+  "required_yoe": 3,
+  "required_education": "bachelors"
+}

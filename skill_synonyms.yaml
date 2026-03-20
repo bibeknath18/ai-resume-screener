@@ -1,0 +1,163 @@
+# Core abbreviations
+ml: machine learning
+ai: artificial intelligence
+dl: deep learning
+nlp: natural language processing
+cv: computer vision
+rl: reinforcement learning
+llm: large language model
+llms: large language model
+genai: generative ai
+mlops: machine learning operations
+tf: tensorflow
+sklearn: scikit-learn
+scikit learn: scikit-learn
+xgb: xgboost
+lgbm: lightgbm
+py: python
+js: javascript
+ts: typescript
+cpp: c++
+c plus plus: c++
+golang: go
+aws: amazon web services
+gcp: google cloud platform
+azure: microsoft azure
+k8s: kubernetes
+kube: kubernetes
+pg: postgresql
+postgres: postgresql
+mongo: mongodb
+es: elasticsearch
+dynamo: dynamodb
+spark: apache spark
+kafka: apache kafka
+airflow: apache airflow
+rest: rest api
+restful: rest api
+reactjs: react
+vuejs: vue js
+nodejs: node js
+ci/cd: ci cd
+cicd: ci cd
+vcs: version control
+tdd: test driven development
+oop: object oriented programming
+hf: hugging face
+bert: transformers
+gpt: large language model
+llama: large language model
+mistral: large language model
+gemini: large language model
+langchain: langchain
+llamaindex: langchain
+rag: retrieval augmented generation
+faiss: vector database
+pinecone: vector database
+chromadb: vector database
+weaviate: vector database
+mlflow: mlops
+kubeflow: mlops
+wandb: mlops
+dvc: mlops
+torchserve: model serving
+triton: model serving
+bentoml: model serving
+ray: distributed computing
+dask: distributed computing
+celery: task queue
+redis: redis
+rabbitmq: message queue
+terraform: infrastructure as code
+ansible: infrastructure as code
+jenkins: ci cd
+github actions: ci cd
+gitlab ci: ci cd
+pytest: testing
+unittest: testing
+selenium: testing
+tableau: data visualization
+powerbi: data visualization
+looker: data visualization
+grafana: monitoring
+prometheus: monitoring
+elasticsearch: elasticsearch
+kibana: elasticsearch
+logstash: elasticsearch
+snowflake: data warehouse
+bigquery: data warehouse
+redshift: data warehouse
+dbt: data transformation
+fivetran: data pipeline
+stitch: data pipeline
+streamlit: web framework
+gradio: web framework
+flask: flask
+django: django
+fastapi: fastapi
+graphql: graphql
+grpc: api
+opencv: computer vision
+pillow: image processing
+albumentations: image processing
+timm: computer vision
+detectron: computer vision
+yolo: computer vision
+whisper: speech recognition
+librosa: audio processing
+nltk: natural language processing
+gensim: natural language processing
+spacy: natural language processing
+transformers: transformers
+datasets: hugging face
+accelerate: hugging face
+peft: fine tuning
+lora: fine tuning
+qlora: fine tuning
+stable diffusion: generative ai
+diffusers: generative ai
+gan: generative ai
+vae: generative ai
+reinforcement learning: reinforcement learning
+gym: reinforcement learning
+stable baselines: reinforcement learning
+rllib: reinforcement learning
+pandas: pandas
+numpy: numpy
+scipy: scipy
+matplotlib: matplotlib
+seaborn: seaborn
+plotly: plotly
+bokeh: data visualization
+altair: data visualization
+jupyter: jupyter notebook
+colab: jupyter notebook
+anaconda: python
+conda: python
+pip: python
+poetry: python
+docker compose: docker
+helm: kubernetes
+istio: kubernetes
+prometheus: monitoring
+grafana: monitoring
+datadog: monitoring
+newrelic: monitoring
+splunk: monitoring
+pagerduty: monitoring
+jira: project management
+confluence: project management
+notion: project management
+slack: communication
+git: git
+github: git
+gitlab: git
+bitbucket: git
+svn: version control
+linux: linux
+ubuntu: linux
+bash: bash
+shell: bash
+powershell: bash
+vim: linux
+ssh: linux

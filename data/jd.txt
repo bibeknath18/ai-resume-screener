@@ -1,0 +1,32 @@
+Machine Learning Engineer — TechCorp India
+
+About the Role:
+We are looking for a skilled Machine Learning Engineer to join our AI team in Bangalore.
+You will design, build, and deploy production-grade ML models that power our core product features.
+
+Responsibilities:
+- Design and implement machine learning models for NLP and recommendation systems
+- Build and maintain ML pipelines from data ingestion to model serving
+- Collaborate with data scientists to bring research models into production
+- Optimize models for performance, latency, and cost at scale
+- Write clean, well-tested Python code following engineering best practices
+- Work with cloud infrastructure to deploy and monitor ML services
+
+Required Skills and Qualifications:
+- 3+ years of experience in machine learning or AI engineering
+- Strong proficiency in Python (primary language)
+- Hands-on experience with deep learning frameworks: PyTorch or TensorFlow
+- Experience with machine learning libraries: scikit-learn, numpy, pandas
+- Solid understanding of Natural Language Processing (NLP) concepts and models
+- Experience with SQL and working with large datasets
+- Familiarity with version control using Git
+- Bachelor's degree in Computer Science, Engineering, or related field
+
+Preferred / Nice-to-Have Skills:
+- Experience with containerization tools: Docker, Kubernetes
+- Cloud platform experience: AWS, GCP, or Azure
+- Knowledge of MLOps practices and tools (MLflow, Kubeflow, Airflow)
+- Experience with distributed computing: Apache Spark
+- Familiarity with serving frameworks: FastAPI, TorchServe
+- Experience with Large Language Models (LLMs) and Transformers
+- Contributions to open-source ML projects
